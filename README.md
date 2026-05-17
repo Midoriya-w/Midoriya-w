@@ -23,7 +23,7 @@ I'm **Dinesh** (aka `Midoriya-w`), a backend developer passionate about **Cloud*
   &nbsp;
   <a href="https://discord.com/users/midoriya5902"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dinesh54378@email.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://github.com/Midoriya-w"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
