@@ -13,7 +13,7 @@ I'm **Dinesh** (aka `Midoriya-w`), a backend developer passionate about **Cloud*
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,mongodb,mysql,docker,aws,git,github,linux,postman,html,css,tailwindcss,javascript,react&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,mongodb,mysql,docker,aws,git,github,linux,postman,html,css,tailwindcss,react&theme=dark"/>
 </p>
 
 ---
