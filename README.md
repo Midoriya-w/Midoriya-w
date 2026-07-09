@@ -6,8 +6,22 @@
 
 ## ⚡ About Me
 
-I'm **Dinesh** (aka `Midoriya-w`), a backend developer passionate about **Cloud**, **Distributed Systems**, and **DevOps**. I enjoy building scalable systems and automating things.
+# Hi, I'm Dinesh 👋
 
+Aspiring Infrastructure Engineer focused on Linux, Cloud Computing, Distributed Systems and Platform Engineering.
+
+Currently learning
+
+- Linux
+- Networking
+- AWS
+- Docker
+- Kubernetes
+
+Building projects around infrastructure automation and cloud-native technologies.
+
+Long-term goal:
+Become an Infrastructure Engineer.
 ---
 
 ## 🛠️ Languages & Tools
