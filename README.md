@@ -1,6 +1,5 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1a,100:00e676&height=200&section=header&text=Yoo!%20I'm%20Midoriya%20%E2%9A%A1&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20Cloud%20Enthusiast&descAlignY=60&descSize=18&descColor=a5f3c0)
 
-### I'm Dinesh
 
 ---
 
