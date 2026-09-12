@@ -83,12 +83,11 @@ ask_me_about:
 
 <img src="https://streak-stats.demolab.com/?user=Midoriya-w&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Midoriya-w&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Midoriya-w&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
 <br>
-
 
 
 <br>
