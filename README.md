@@ -1,48 +1,132 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d1a,100:00e676&height=200&section=header&text=Yoo!%20I'm%20Midoriya%20%E2%9A%A1&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Dev%20%7C%20Cloud%20Enthusiast&descAlignY=60&descSize=18&descColor=a5f3c0)
+<div align="center">
 
+<img src="banner.svg" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Building+cloud-native+infrastructure;Docker+%2B+Kubernetes+%2B+AWS;CI%2FCD+with+GitHub+Actions;Monitoring+with+Prometheus+%2F+Grafana;Open-source+contributor+%E2%86%92+GSoC+2027" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
 
 ## ⚡ About Me
 
-# Hi, I'm Dinesh 👋
+```yaml
+name: Dinesh
+role: Backend & Cloud Engineer
+education: B.Tech CS (Distributed & Cloud Computing) @ SRM University AP
+currently:
+  - Building CloudSnap — a cloud-native app on Docker, Kubernetes & AWS
+  - Research intern, co-authoring a paper on cloud-native architecture
+  - Contributing to open-source infra tooling on the way to GSoC 2027
+learning:
+  - Kubernetes internals
+  - Platform engineering & observability
+ask_me_about:
+  - Docker, Kubernetes, CI/CD pipelines, AWS, monitoring
+```
 
-Aspiring Infrastructure Engineer focused on Linux, Cloud Computing, Distributed Systems and Platform Engineering.
+<br>
 
-Currently learning
+## 🛠️ Tech Stack
 
-- Linux
-- Networking
-- AWS
-- Docker
-- Kubernetes
+<div align="center">
 
-Building projects around infrastructure automation and cloud-native technologies.
+**Cloud & Infra**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark" />
 
-Long-term goal:
-Become an Infrastructure Engineer.
----
+**CI/CD & Monitoring**
+<br>
+<img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus&theme=dark" />
 
-## 🛠️ Languages & Tools
+**Backend & Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express,mongodb,mysql,c,cpp,js&theme=dark" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,mongodb,mysql,docker,aws,git,github,linux,postman,html,css,tailwindcss,react&theme=dark"/>
-</p>
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,html,css,tailwind&theme=dark" />
 
----
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dinesh-ch-480987307"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://discord.com/users/midoriya5902"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  &nbsp;
-  <a href="mailto:dinesh54378@email.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://github.com/Midoriya-w"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br>
 
----
+## 🚀 Featured Work
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Midoriya-w/Midoriya-w/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/Midoriya-w/cloudSnap">
+  <img height="165em" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=Midoriya-w&repo=cloudSnap&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Midoriya-w/SIH26136">
+  <img height="165em" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=Midoriya-w&repo=SIH26136&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Project | What it does |
+|---|---|
+| **[cloudSnap](https://github.com/Midoriya-w/cloudSnap)** | Cloud-native Flask app — Dockerized, deployed on AWS EC2, orchestrated on Kubernetes (Minikube, 3 replicas), shipped through a GitHub Actions CI/CD pipeline, monitored live with Prometheus + Grafana. Basis for an ongoing IEEE research paper. |
+| **[SIH26136](https://github.com/Midoriya-w/SIH26136)** | Startup-friendly public procurement mechanism — built for Smart India Hackathon. |
+| **Open Source** | Contributions to infra and developer-tooling repos, working toward GSoC 2027. |
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://githubreadmestatsfast.vercel.app/api?username=Midoriya-w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Midoriya-w&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Midoriya-w&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Midoriya-w&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Midoriya-w&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Midoriya-w/Midoriya-w/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Midoriya-w/Midoriya-w/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+## 🏙️ 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Midoriya-w/Midoriya-w/main/profile-3d-contrib/profile-night-green.svg" />
+</div>
+
+<br>
+
+<div align="center">
+
+### 📫 Reach Out
+
+<a href="https://www.linkedin.com/in/dinesh-ch-480987307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Midoriya-w"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:dinesh54378@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.com/users/midoriya5902"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
+<br><br>
+
+<img src="footer.svg" width="100%"/>
+
+</div>
