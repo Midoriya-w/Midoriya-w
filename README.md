@@ -3,7 +3,7 @@
 <img src="banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Building+cloud-native+infrastructure;Docker+%2B+Kubernetes+%2B+AWS;CI%2FCD+with+GitHub+Actions;Monitoring+with+Prometheus+%2F+Grafana;Open-source+contributor+%E2%86%92+GSoC+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Backend+Developer+%2B+Cloud+Enthusiast;Building+APIs+with+Flask+%26+Node.js;Deploying+with+Docker+%2B+Kubernetes+%2B+AWS;CI%2FCD+with+GitHub+Actions;Open-source+contributor+%E2%86%92+GSoC+2027" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,17 +14,17 @@
 
 ```yaml
 name: Dinesh
-role: Backend & Cloud Engineer
+role: Backend Developer & Cloud Enthusiast
 education: B.Tech CS (Distributed & Cloud Computing) @ SRM University AP
 currently:
-  - Building CloudSnap — a cloud-native app on Docker, Kubernetes & AWS
+  - Building CloudSnap — a backend app with Flask, deployed cloud-native on Docker, Kubernetes & AWS
   - Research intern, co-authoring a paper on cloud-native architecture
-  - Contributing to open-source infra tooling on the way to GSoC 2027
+  - Contributing to open-source backend & infra projects on the way to GSoC 2027
 learning:
-  - Kubernetes internals
-  - Platform engineering & observability
+  - Backend system design & scalable APIs
+  - Cloud infrastructure and platform engineering
 ask_me_about:
-  - Docker, Kubernetes, CI/CD pipelines, AWS, monitoring
+  - Backend development, APIs, Docker, Kubernetes, AWS, CI/CD
 ```
 
 <br>
@@ -89,11 +89,7 @@ ask_me_about:
 
 <br>
 
-## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Midoriya-w&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 <br>
 
