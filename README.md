@@ -58,10 +58,10 @@ ask_me_about:
 <div align="center">
 
 <a href="https://github.com/Midoriya-w/cloudSnap">
-  <img height="165em" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=Midoriya-w&repo=cloudSnap&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-multiuser.vercel.app/api/pin/?username=Midoriya-w&repo=cloudSnap&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Midoriya-w/SIH26136">
-  <img height="165em" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=Midoriya-w&repo=SIH26136&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-multiuser.vercel.app/api/pin/?username=Midoriya-w&repo=SIH26136&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -78,8 +78,8 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://githubreadmestatsfast.vercel.app/api?username=Midoriya-w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Midoriya-w&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=Midoriya-w&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=Midoriya-w&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Midoriya-w&theme=tokyonight&hide_border=true" />
 
